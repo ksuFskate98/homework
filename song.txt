@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-Oh God got a feeling
-I got a feeling
-=======
+
 Oh God got a feeling
 I got a feeling
 And it's a bad one
@@ -13,4 +10,4 @@ Yeah old blue sky is grey
 Yeah it's deadly how you do
 What you do for love
 What you do for love yeah
->>>>>>> b0365e04aedba547e2e0f0624bb26980e0e0909c
+
